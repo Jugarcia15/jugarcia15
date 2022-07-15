@@ -9,7 +9,12 @@
 - <b>C# (Inventory Management System)</b>
   - [Practicing creating Java apps and GUI using Scenebuilder](https://github.com/Jugarcia15/Inventory-Management-Application)
   
-<h2> 🤳 Connect with me:</h2>
+<h2> Project Docs</h2>
+ [Capstone Documentation](https://github.com/Jugarcia15/Multi-Class-Image-Classifier/blob/main/Presentation.docx?raw=true)
+ [Appointment Scheduler Documentation](https://github.com/Jugarcia15/Appointment-scheduler-application/blob/master/Presentation.docx?raw=true) 
+   
+  
+<h3> 🤳 Connect with me:</h3>
 
 [<img align="left" alt="JuanGarcia | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
