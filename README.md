@@ -20,10 +20,6 @@
 
 [linkedin]: https://linkedin.com/in/jugarcia15
 
-<h2> Project Docs</h2>
- [Capstone Documentation](https://github.com/Jugarcia15/Multi-Class-Image-Classifier/blob/main/Presentation.docx?raw=true)
- [Appointment Scheduler Documentation](https://github.com/Jugarcia15/Appointment-scheduler-application/blob/master/Presentation.docx?raw=true) 
- 
  
 <!--
 **jugarcia15/jugarcia15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
