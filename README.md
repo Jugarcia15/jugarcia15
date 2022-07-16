@@ -2,16 +2,19 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-  - <b> Capstone Project Multi-Class Image Classifier</b>
+- <b> Capstone Project Multi-Class Image Classifier</b>
   - [Praciting machine learning in Python](https://github.com/Jugarcia15/Multi-Class-Image-Classifier)
-  - <b> Appointment Scheduler Application using a Database (Java, JavaFX, MySQL, JDBC) </b>
+- <b> Appointment Scheduler Application using a Database (Java, JavaFX, MySQL, JDBC) </b>
   - [Appointment Scheduler](https://github.com/Jugarcia15/Appointment-scheduler-application) 
-  - <b>C# (Inventory Management System)</b>
+- <b>C# (Inventory Management System)</b>
   - [Practicing creating Java apps and GUI using Scenebuilder](https://github.com/Jugarcia15/Inventory-Management-Application)
   
 <h3> Project Docs</h3>
-  - [Capstone Documentation](https://github.com/Jugarcia15/Multi-Class-Image-Classifier/blob/main/Presentation.docx?raw=true)
-  - [Appointment Scheduler Documentation](https://github.com/Jugarcia15/Appointment-scheduler-application/blob/master/Presentation.docx?raw=true) 
+
+- <b> Capstone Project </b>
+  - [Documentation](https://github.com/Jugarcia15/Multi-Class-Image-Classifier/blob/main/Presentation.docx?raw=true)
+- <b> Appointment Scheduler </b>
+  - [Documentation](https://github.com/Jugarcia15/Appointment-scheduler-application/blob/master/Presentation.docx?raw=true) 
    
   
 <h4> 🤳 Connect with me:</h4>
