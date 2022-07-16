@@ -9,7 +9,11 @@
 - <b>C# (Inventory Management System)</b>
   - [Practicing creating Java apps and GUI using Scenebuilder](https://github.com/Jugarcia15/Inventory-Management-Application)
   
-<h3> Project Docs</h3>
+<h2> Certifications </h2>
+
+- <b> CompTIA Project+ </b>
+
+<h2> Project Docs</h2>
 
 - <b> Capstone Project </b>
   - [Documentation](https://github.com/Jugarcia15/Multi-Class-Image-Classifier/blob/main/Presentation.docx?raw=true)
@@ -17,7 +21,7 @@
   - [Documentation](https://github.com/Jugarcia15/Appointment-scheduler-application/blob/master/Presentation.docx?raw=true) 
    
   
-<h4> 🤳 Connect with me:</h4>
+<h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JuanGarcia | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
