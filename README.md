@@ -31,9 +31,10 @@
 
 <h2>🌱 My Current Learning Path:</h2>
 
-  1 First I will start with the basics of Web Dev, which includes working with HTML, CSS, JS, Node, React, MongoDB, Web3, and DApps. This will be at an  introductory-novice level.
+  1. First I will start with the basics of Web Dev, which includes working with HTML, CSS, JS, Node, React, MongoDB, Web3, and DApps. 
+     This will be at an  introductory-novice level.
   
-  2 Practice C++ while making a game in UE5.
+  2. Practice C++ while making a game in UE5.
   
   <b> ^^^ I'm currently on these steps ^^^ </b>
   
