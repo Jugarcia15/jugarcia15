@@ -38,11 +38,11 @@
   
   <b> ^^^ I'm currently on these steps ^^^ </b>
   
-  3. Afterwards, I will learn more about Version control by taking a course on Udemy about Git & GitHub.
+  3. Afterwards, I will learn more about Version control, Git & GitHub.
   
   4. Thirdly, focus on React more in depth.
   
-  5. Learn and master NodeJS.
+  5. Learn and work - NodeJS.
   
   6. More experience with databases, learn and master MongoDB dev for web and mobile apps. 
   
