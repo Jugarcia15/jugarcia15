@@ -6,7 +6,7 @@
   - [Praciting machine learning in Python](https://github.com/Jugarcia15/Multi-Class-Image-Classifier)
 - <b> Appointment Scheduler Application using a Database (Java, JavaFX, MySQL, JDBC) </b>
   - [Appointment Scheduler](https://github.com/Jugarcia15/Appointment-scheduler-application) 
-- <b>C# (Inventory Management System)</b>
+- <b>Creating an Inhouse, outsourced inventory system. (Inventory Management System)</b>
   - [Practicing creating Java apps and GUI using Scenebuilder](https://github.com/Jugarcia15/Inventory-Management-Application)
   
 <h2> Certifications </h2>
