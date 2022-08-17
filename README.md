@@ -1,4 +1,4 @@
-<h1>Hi, I'm Juan! <br/><a href="https://github.com/Jugarcia15">Programmer</a>, <a href="https://www.linkedin.com/in/jugarcia15/">Recent B.S Computer Science graduate</a></h1>
+<h1>Hi, I'm Juan! <br/><a href="https://www.linkedin.com/in/jugarcia15/">Recent B.S Computer Science graduate</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
