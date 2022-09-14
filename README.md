@@ -3,12 +3,16 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b> Capstone Project Multi-Class Image Classifier</b>
-  - [Praciting machine learning in Python](https://github.com/Jugarcia15/Multi-Class-Image-Classifier)
+  - [Practicing machine learning in Python](https://github.com/Jugarcia15/Multi-Class-Image-Classifier)
 - <b> Appointment Scheduler Application using a Database (Java, JavaFX, MySQL, JDBC) </b>
   - [Appointment Scheduler](https://github.com/Jugarcia15/Appointment-scheduler-application) 
 - <b>Creating an Inhouse, outsourced inventory system. (Inventory Management System)</b>
   - [Practicing creating Java apps and GUI using Scenebuilder](https://github.com/Jugarcia15/Inventory-Management-Application)
   
+<h2> Game Development Projects: </h2>
+- <b> Game Development Beginner Projects and Notes </b>
+  - [Learning Game Dev in Unity](https://github.com/Jugarcia15/Game-Development.git)
+
 <h2> Certifications </h2>
 
 - <b> CompTIA Project+ </b>
