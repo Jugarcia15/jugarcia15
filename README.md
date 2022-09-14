@@ -10,6 +10,7 @@
   - [Practicing creating Java apps and GUI using Scenebuilder](https://github.com/Jugarcia15/Inventory-Management-Application)
   
 <h2> Game Development Projects: </h2>
+
 - <b> Game Development Beginner Projects and Notes </b>
   - [Learning Game Dev in Unity](https://github.com/Jugarcia15/Game-Development.git)
 
