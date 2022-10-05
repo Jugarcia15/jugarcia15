@@ -8,6 +8,9 @@
   - [Appointment Scheduler](https://github.com/Jugarcia15/Appointment-scheduler-application) 
 - <b>Creating an Inhouse, outsourced inventory system. (Inventory Management System)</b>
   - [Practicing creating Java apps and GUI using Scenebuilder](https://github.com/Jugarcia15/Inventory-Management-Application)
+- <b>Learning and Practicing Web Development without templates. (First Website Created By Me)</b>
+  - [Practicing HTML and CSS](https://github.com/Jugarcia15/Jugarcia15.github.io) 
+  
   
 <h2> Game Development Projects: </h2>
 
