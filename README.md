@@ -36,7 +36,7 @@
   [linkedin]: https://linkedin.com/in/jugarcia15
 
 
-
+<!--
 <h2>🌱 My Current Learning Path:</h2>
 
   1. First I will start with the basics of Web Dev, which includes working with HTML, CSS, JS, Node, React, MongoDB, Web3, and DApps. 
@@ -71,7 +71,7 @@
 <h2> Why? </h2> 
 
   <b> Just because I graduated doesn't mean that I'm done with learning. I have much more to learn! </b>
-
+-->
 
 
 <!--
