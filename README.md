@@ -24,7 +24,7 @@
  9. [AWS SAM Practice](https://github.com/Jugarcia15/GenSpark-Assignments/tree/main/Week9/SAM) : Practice deploying SAM App
  10. [Angular Practice](https://github.com/Jugarcia15/GenSpark-Assignments/tree/main/Week10/my-blog) : Make the following components using Angular : Navbar, Form, Footer. Use Bootstrap.
  11. [Mock Profile Card](https://github.com/Jugarcia15/GenSpark-Assignments/tree/main/Week10/ProfileCard) : Make a mock profile card.
- 12. [Portfolio](https://github.com/Jugarcia15/GenSpark-Assignments/tree/main/Week11/my-portfolio) : Make a portfolio using Angular, HTML, CSS. First version can be accessed via [link](https://txjuang.me/)
+ 12. [Portfolio](https://github.com/Jugarcia15/GenSpark-Assignments/tree/main/Week11/my-portfolio) : Make a portfolio using Angular, HTML, CSS.
  
 ## Projects 
  1. [Dragon Cave](https://github.com/Jugarcia15/GenSpark-Assignments/tree/main/Projects/Dragon_Cave/DragonCave) : Simple console text game, prompt user to choose 1 or 2, which decides ending of game. 
@@ -60,50 +60,6 @@
   - [Documentation](https://github.com/Jugarcia15/Appointment-scheduler-application/blob/master/Presentation.docx?raw=true) 
    
   
-<h2> 🤳 Connect with me:</h2>
-
-- [<img align="left" alt="JuanGarcia | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-  [linkedin]: https://linkedin.com/in/jugarcia15
-
-
-<!--
-<h2>🌱 My Current Learning Path:</h2>
-
-  1. First I will start with the basics of Web Dev, which includes working with HTML, CSS, JS, Node, React, MongoDB, Web3, and DApps. 
-     This will be at an  introductory-novice level.
-  
-  2. Practice C++ while making a game in UE5.
-  
-  <b> ^^^ I'm currently on these steps ^^^ </b>
-  
-  3. Afterwards, I will learn more about Version control, Git & GitHub.
-  
-  4. Thirdly, focus on React more in depth.
-  
-  5. Learn and work - NodeJS.
-  
-  6. More experience with databases, learn and master MongoDB dev for web and mobile apps. 
-  
-  7. Learn how to write tests for JS projects.
-  
-  8. Learn Next.js and build ReactJS apps with NextJS framework.
-  
-  9. Master Python by doing the 100 Days of Code.
-  
-  10. Study for AWS Certified Cloud Practictioner.
-  
-  11. Docker & Kubernetes. I almost looked into this for my machine learning capstone project.
-  
-  12. Quick course in Linux if not done by this point.
-
-
-
-<h2> Why? </h2> 
-
-  <b> Just because I graduated doesn't mean that I'm done with learning. I have much more to learn! </b>
--->
-
 
 <!--
 **jugarcia15/jugarcia15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
